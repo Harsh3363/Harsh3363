@@ -2,13 +2,15 @@
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh3363&label=Profile%20views&color=0e75b6&style=flat" alt="harsh3363" /> </p>
-<p align="right"> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/> </p>
+<p align="center"> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/> </p>
 
-- 🌱 I’m currently learning **ReactJS,Python**
-
-- 💬 Ask me about **node,javascript**
-
+- 🌱 I’m currently learning **ReactJS & CP**
+- ✈️ Hire me for remote work & internships :)
+- ⛵ 2022 Goals: Expertise in CP, contribute to Open Source projects, build softwares solutions and survive the pandemic!
+- 🔭 I’m always trying to grow and learn something new.
+- 💬 Ask me about **Node, JavaScript & ReactJS**
 - 📫 How to reach me **harsh.kanodiya@gmail.com**
+- 🦄 Pronouns: He/His/Bro
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

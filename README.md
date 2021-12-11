@@ -8,7 +8,7 @@
 - ✈️ Hire me for remote work & internships :)
 - ⛵ 2022 Goals: Expertise in CP, contribute to Open Source projects, build softwares solutions and survive the pandemic!
 - 🔭 I’m always trying to grow and learn something new.
-- 💬 Ask me about **Node, JavaScript & ReactJS**
+- 💬 Ask me about **Node & JavaScript **
 - 📫 How to reach me **harsh.kanodiya@gmail.com**
 - 🦄 Pronouns: He/His/Bro
 

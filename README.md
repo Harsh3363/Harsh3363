@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh3363&label=Profile%20views&color=0e75b6&style=flat" alt="harsh3363" /> </p>
 <p align="center"> <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="350" height="350"/> </p>
 
-- 🌱 I’m currently learning **ReactJS & CP**
+- 🌱 I’m currently learning **ReactJS & Block Chain**
 - ✈️ Hire me for remote work & internships :)
 - ⛵ 2022 Goals: Expertise in CP, contribute to Open Source projects, build softwares solutions and survive the pandemic!
 - 🔭 I’m always trying to grow and learn something new.
-- 💬 Ask me about **Node & JavaScript**
+- 💬 Ask me about **JavaScript**
 - 📫 How to reach me **harsh.kanodiya@gmail.com**
 - 🦄 Pronouns: He/His/Bro
 ---

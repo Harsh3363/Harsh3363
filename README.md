@@ -31,7 +31,7 @@ new tools details added
 <a href="https://oauth.net/" target="_blank"> <img src="https://oauth.net/images/oauth-logo-square.png" alt="oauth" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_apac_india_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624347&adgroup=115749713423&gclid=Cj0KCQiA9OiPBhCOARIsAI0y71Bv_8B-dOlgPLjB6okdX1gIArI4g_F4ASemvdC8O8bq3UXC2xN07XkaAnSjEALw_wcB" target="_blank"> <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="mongodb" width="40" height="40"/> </a>  
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRD-4zzsFv2olrgLaLGYecCr4qaiLr4sUbx7Te-rPFwrdCYvZH" alt="react" width="40" height="40"/> </a>
+  
 </p>
 
 

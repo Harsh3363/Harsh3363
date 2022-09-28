@@ -41,6 +41,8 @@ new tools details added
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh3363&" alt="harsh3363" /></p>
 
 <!-- snake eating my contribution graph -->
-![snake gif](https://github.com/harsh3363/harsh3363/blob/output/github-contribution-grid-snake.gif)
+
+
+[![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Harsh3363&theme=react-dark)](https://github.com/Harsh3363/github-readme-activity-graph)
 
 #### ✨ [Skyline View](https://skyline.github.com/harsh3363/2021)

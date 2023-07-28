@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 - ✈️ Hire me for remote work & internships :)
-- ⛵ 2022 Goals: Expertise in CP, contribute to Open Source projects, build softwares solutions and survive the pandemic!
+- ⛵ 2023 Goals: Expertise in Devops, contribute to Open Source projects.
 - 🔭 I’m always trying to grow and learn something new.
 - 💬 Ask me about **ReactJS**
 - 📫 How to reach me **harsh.kanodiya@gmail.com**

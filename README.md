@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/harshkanodiya3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshkanodiya3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harsh-kanodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-kanodiya" height="30" width="40" /></a>
-<a href="https://www.mightbeharsh.tech/" target="blank"><img align="center" src="https://img.icons8.com/clouds/344/domain.png" alt="harshkanodiya3" height="50" width="50" /></a>
+<a href="https://www.mightbeharsh.site/" target="blank"><img align="center" src="https://img.icons8.com/clouds/344/domain.png" alt="harshkanodiya3" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

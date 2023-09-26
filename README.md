@@ -63,6 +63,6 @@ new tools details added
 ![snake gif](https://github.com/harsh3363/harsh3363/blob/output/github-contribution-grid-snake.gif) -->
 
 
-[![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Harsh3363&theme=react-dark)](https://github.com/Harsh3363/github-readme-activity-graph)
+<!-- [![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Harsh3363&theme=react-dark)](https://github.com/Harsh3363/github-readme-activity-graph) --->
 
 #### ✨ [Skyline View](https://skyline.github.com/harsh3363/2021)

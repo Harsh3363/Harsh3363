@@ -26,8 +26,9 @@
 <p align="left"> 
    
    <a href="https://www.java.com/en/m" target="_blank"> <img src="https://seeklogo.com/images/J/java-logo-AC1B3887F3-seeklogo.com.png" alt="java" width="40" height="40"/> </a>
+    <a href="https://react.dev/"> <img src="https://www.bairesdev.com/wp-content/uploads/2022/06/Picture6-1.svg" alt="aws" width="60" height="40"/> </a>
+    <a href="https://nextjs.org/"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="aws" width="60" height="40"/> </a>
     <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="css3" width="40" height="40"/> </a> 
-     <a href="https://react.dev/"> <img src="https://www.bairesdev.com/wp-content/uploads/2022/06/Picture6-1.svg" alt="aws" width="60" height="40"/> </a>
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
    <a href="https://www.docker.com/" target="_blank"> <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ywjqppks5ffcnbfjuttq" alt="git" width="40" height="40"/> </a> 

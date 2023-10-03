@@ -67,11 +67,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh3363&show_icons=true&locale=en" alt="harsh3363" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh3363&" alt="harsh3363" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh3363&" alt="harsh3363" /></p> -->
 
 <!-- snake eating my contribution graph --- 
 ![snake gif](https://github.com/harsh3363/harsh3363/blob/output/github-contribution-grid-snake.gif) -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh3363&hide_progress=true)
 
 <!-- [![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Harsh3363&theme=react-dark)](https://github.com/Harsh3363/github-readme-activity-graph) --->
 

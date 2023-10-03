@@ -22,38 +22,48 @@
 <a href="https://www.mightbeharsh.site/" target="blank"><img align="center" src="https://img.icons8.com/clouds/344/domain.png" alt="harshkanodiya3" height="50" width="50" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-   
-   <a href="https://www.java.com/en/m" target="_blank"> <img src="https://seeklogo.com/images/J/java-logo-AC1B3887F3-seeklogo.com.png" alt="java" width="40" height="40"/> </a>
-    <a href="https://react.dev/"> <img src="https://www.bairesdev.com/wp-content/uploads/2022/06/Picture6-1.svg" alt="aws" width="60" height="40"/> </a>
-    <a href="https://nextjs.org/"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="aws" width="60" height="40"/> </a>
-    <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="css3" width="40" height="40"/> </a> 
-   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-   <a href="https://www.docker.com/" target="_blank"> <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ywjqppks5ffcnbfjuttq" alt="git" width="40" height="40"/> </a> 
-   <a href="https://www.mysql.com/" target="_blank"> <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="git" width="40" height="40"/> </a> 
-   <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.datamation.com/wp-content/uploads/2021/01/3-31510_svg-kubernetes-logo-hd-png-download-696x664.png" alt="git" width="40" height="40"/> </a> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-   <a href="https://aws.amazon.com" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/aws-icon-1024x1024-runl182z.png" alt="aws" width="40" height="40"/> </a> 
-   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  
-<!---
-new tools details added
--->
-<a href="https://www.postman.com/"> <img src="https://mms.businesswire.com/media/20210806005076/en/761650/23/postman-logo-vert-2018.jpg" alt="postman" width="60" height="40"/> </a>
-<a href="https://aws.amazon.com/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzsiJ_yjuPBxwZJhnDgR_tqJqLTtMAx26EHFUb-BFtONB1D9vr5_XkpRsajCdo-h19hA&usqp=CAU" alt="aws" width="60" height="40"/> </a>
-  
-<a href="https://ethereum.org/en/"> <img src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" alt="ethereum" width="60" height="40"/> </a>
-<a href="https://docs.soliditylang.org/en/v0.8.11//" target="_blank"> <img src="https://docs.soliditylang.org/en/v0.8.11/_static/logo.svg" alt="solidity" width="40" height="40"/> </a>
-<a href="https://oauth.net/" target="_blank"> <img src="https://oauth.net/images/oauth-logo-square.png" alt="oauth" width="40" height="40"/> </a>
-<a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com" target="_blank"> <img src="https://i.pcmag.com/imagery/reviews/02Q6yxveinggAu3PomearaV-7.fit_scale.size_760x427.v1569481734.jpg" alt="mongodb" width="40" height="40"/> </a>  
-  
-</p>
 
+### Language :
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
+### Libraries & Framework :
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+
+### DevOps & Cloud Tools:
+
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Harsh3363&limit=2&theme=dark&combine_all_yearly_contributions=true)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh3363&show_icons=true&locale=en" alt="harsh3363" /></p>
 

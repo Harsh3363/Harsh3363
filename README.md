@@ -62,9 +62,10 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 
+<!---
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Harsh3363&limit=2&theme=dark&combine_all_yearly_contributions=true)
-
+![](https://github-contributor-stats.vercel.app/api?username=Harsh3363&limit=2&theme=dark&combine_all_yearly_contributions=false)
+--->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh3363&rank_icon=percentile&theme=dark)](https://github.com/Harsh3363/github-readme-stats)
 <!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh3363&show_icons=true&theme=transparent)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh3363&show_icons=true&theme=dark&locale=en" alt="harsh3363" /></p>

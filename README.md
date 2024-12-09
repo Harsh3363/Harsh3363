@@ -8,9 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh3363&label=Profile%20views&color=0e75b6&style=flat" alt="harsh3363" /> </p>
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="350"/> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Spring boot**
 - ✈️ Hire me for remote work & internships :)
-- ⛵ 2023 Goals: Expertise in DevOps, contribute to Open Source projects.
+- ⛵ 2025 Goals: Expertise in Springboot, contribute to Open Source projects.
 - 🔭 I’m always trying to grow and learn something new.
 - 💬 Ask me about **ReactJS**
 - 📫 How to reach me **harsh.kanodiya@gmail.com**
@@ -33,6 +33,7 @@
 ### Libraries & Framework :
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Spring Boot](https://img.shields.io/badge/spring-%2320232a.svg?style=for-the-badge&logo=spring&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
